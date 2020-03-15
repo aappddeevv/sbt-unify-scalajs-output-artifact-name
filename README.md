@@ -1,6 +1,6 @@
 # Set the output scala.js artifact name
 
-Set the fast, full and test scala.js output artficact name to the same value.
+Set the fast, full and test scala.js output artifact name to the same value.
 
 To use, add the following:
 
